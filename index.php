@@ -1,3 +1,4 @@
+
 <?php
 /**
  * ECOGEST - Implementación Unificada de Clases (UML) en PHP.
